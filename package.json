@@ -1,4 +1,21 @@
 {
+  "name": "projectuaspw1",
+  "version": "1.0.0",
+  "description": "Project UAS",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdiGhifari/ProjectUASPW1.git"
+  },
+  "author": "Ardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArdiGhifari/ProjectUASPW1/issues"
+  },
+  "homepage": "https://github.com/ArdiGhifari/ProjectUASPW1#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
